@@ -1,4 +1,4 @@
-# Emlaik: a lab for measuring multi-agent LLM behavior
+# Emlak: a lab for measuring multi-agent LLM behavior
 
 🇹🇷 [Türkçe README](README.tr.md)
 
